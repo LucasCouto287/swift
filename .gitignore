@@ -4,3 +4,7 @@ xcshareddata
 *.xcuserstate
 timeline.xctimeline
 playground.xcworkspace
+build
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
